@@ -1,0 +1,22 @@
+{
+  "name": "nelly-dark",
+  "displayName": "nelly-dark",
+  "description": "dark vibrant theme",
+  "version": "0.0.1",
+  "publisher": "NellyFrittata",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nelly Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nelly Dark-color-theme.json"
+      }
+    ]
+  }
+}
